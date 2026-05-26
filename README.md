@@ -209,7 +209,7 @@ Build a recruiter-impressive AI portfolio project demonstrating:
 
 **Ayush Kumar Sahoo**
 
-Chemical Engineering @ NIT Rourkela  
+Chemical Engineering @ NIT Rourkela'26  
 Product Analyst & Strategy • Business Analyst • AI
 
 GitHub:
