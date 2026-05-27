@@ -125,6 +125,7 @@ Strategic Consulting Intelligence
 ### Deployment
 
 ```txt
+Vercel
 GitHub
 ```
 
